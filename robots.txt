@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-kj4i4j.gopay303gel.site/sitemap.xml
